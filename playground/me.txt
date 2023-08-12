@@ -1,0 +1,5 @@
+{{#user}}
+My name is Amit Nalawade
+Here are my skills : html, css ,js , react , redux , next js , tailwind css 
+My email id is amitnalawade800@gmail.com
+ {{/user}}
